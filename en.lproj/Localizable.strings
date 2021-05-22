@@ -7,14 +7,14 @@
 */
 
 "Prove of concept" = "Prove of conceptssss";
-"Approuch for prove of concept apps." = "Approuch for prove of concept apps.";
+"Approuch for prove of concept apps." = "Approach for prove of concept apps.";
 
 "small_apps" = "Small Apps";
-"small_apps_description" = "This approuch is only for small apps easy to maintain.";
+"small_apps_description" = "This approach is only for small apps easy to maintain.";
 
 "TabBarView.prove_of_concept" = "Prove of Concept";
 "TabBarView.small_apps" = "Small Apps";
 "TabBarView.large_scale_apps" = "Large Scale Apps";
 
 "LargeScaleAppsView.title" = "Large Scale Apps";
-"LargeScaleAppsView.description" = "This is the approuch I use for my big projects.";
+"LargeScaleAppsView.description" = "This is the approach I use for my big projects.";
