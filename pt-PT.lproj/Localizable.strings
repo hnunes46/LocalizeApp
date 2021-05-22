@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  LocalizeApp
+
+  Created by Helder Nunes on 22/05/2021.
+  
+*/
+
+"Prove of concept" = "Prova de Conceito";
+"Approuch for prove of concept apps." = "Abordagem para aplicações de prova de conceito.";
+
+"small_apps" = "Pequenas aplicações";
+"small_apps_description" = "Abordagem usada para pequenas aplicações";
+
+"TabBarView.prove_of_concept" = "Demo Apps";
+"TabBarView.small_apps" = "Pequenas Apps";
+"TabBarView.large_scale_apps" = "Grandes Apps";
+
+"LargeScaleAppsView.title" = "Grandes Apps";
+"LargeScaleAppsView.description" = "Abordagem usada para grande projectos";

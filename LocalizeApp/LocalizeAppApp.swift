@@ -11,7 +11,7 @@ import SwiftUI
 struct LocalizeAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LATabView()
         }
     }
 }
